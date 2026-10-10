@@ -1,0 +1,30 @@
+name: Nachtelijke update
+on:
+  schedule:
+    - cron: '30 2 * * *'     # elke nacht om 02:30 UTC (04:30 zomertijd, 03:30 wintertijd)
+  workflow_dispatch:         # maakt handmatig starten mogelijk (knop "Run workflow")
+permissions:
+  contents: write
+jobs:
+  bijwerken:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: PDF-lezer installeren
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+      - name: Nieuwe moties ophalen en verwerken
+        run: |
+          # op zondag kijken we opnieuw naar alle moties sinds 23 februari 2026
+          if [ "$(date +%u)" = "7" ]; then python bijwerken.py --diep; else python bijwerken.py; fi
+      - name: App controleren
+        run: node controle.js docs/index.html
+      - name: Opslaan
+        run: |
+          git config user.name "update-bot"
+          git config user.email "update-bot@users.noreply.github.com"
+          git add docs/index.html verslag-laatste-run.md
+          git diff --cached --quiet || git commit -m "Nachtelijke update"
+          git push
