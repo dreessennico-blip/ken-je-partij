@@ -1,8 +1,8 @@
 # Verslag nachtelijke update
 
-Gedraaid op: 2026-10-26 03:04 UTC, periode (indiening): 2026-09-11 t/m 2026-10-26
+Gedraaid op: 2026-10-27 03:03 UTC, periode (indiening): 2026-09-12 t/m 2026-10-27
 In de app: 3326 moties
-Opgehaald: 897 moties (met of zonder uitslag)
+Opgehaald: 908 moties (met of zonder uitslag)
 Nieuw met uitslag: 13
 
 ## Resultaat
