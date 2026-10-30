@@ -1,12 +1,12 @@
 # Verslag nachtelijke update
 
-Gedraaid op: 2026-10-29 03:12 UTC, periode (indiening): 2026-09-14 t/m 2026-10-29
-In de app: 3326 moties
-Opgehaald: 921 moties (met of zonder uitslag)
-Nieuw met uitslag: 123
+Gedraaid op: 2026-10-30 03:13 UTC, periode (indiening): 2026-09-15 t/m 2026-10-30
+In de app: 3432 moties
+Opgehaald: 993 moties (met of zonder uitslag)
+Nieuw met uitslag: 17
 
 ## Resultaat
-Toegevoegd aan de app: **106** moties
+Toegevoegd aan de app: **0** moties
 Weggelaten voor controle: **17**
 - 19637-3643: download is geen geldige PDF
 - 21501-20-2460: download is geen geldige PDF
@@ -25,9 +25,3 @@ Weggelaten voor controle: **17**
 - 37020-XVI-60: fractie JA21 stemde verdeeld (hoofdelijk), handmatig bepalen
 - 37020-XVI-66: fractie JA21 stemde verdeeld (hoofdelijk), handmatig bepalen
 - 37020-XVII-12: indiener niet betrouwbaar te bepalen: De voorzitter:, Deze motie is voorgesteld door het lid Hooge
-
-**Nieuwe dossiers zonder ministerie (staan onder 'Overig', graag indelen):**
-- 28828: 28 828 Fraudebestrijding in de zorg
-- 30486: 30 486 Evaluatie Embryowet
-- 36585: 36 585 Wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering in verband met de introductie van de Alcoholmeter als controlemiddel om toezicht te houden op de naleving van een alcoholverbod (Alcoholmeter)
-- 36876: 36 876 Implementatie van Richtlijn (EU) 2024/1203 van het Europees Parlement en de Raad van 11 april 2024 inzake de bescherming van het milieu door middel van het strafrecht en tot vervanging van de Richtlijnen 2008/99/EG en 2009/123/EG (Implementatiewet herziene Europese richtlijn milieucriminaliteit) 
