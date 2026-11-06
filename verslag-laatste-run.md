@@ -1,12 +1,12 @@
 # Verslag nachtelijke update
 
-Gedraaid op: 2026-11-05 03:16 UTC, periode (indiening): 2026-09-21 t/m 2026-11-05
-In de app: 3439 moties
-Opgehaald: 938 moties (met of zonder uitslag)
-Nieuw met uitslag: 102
+Gedraaid op: 2026-11-06 03:16 UTC, periode (indiening): 2026-09-22 t/m 2026-11-06
+In de app: 3523 moties
+Opgehaald: 957 moties (met of zonder uitslag)
+Nieuw met uitslag: 18
 
 ## Resultaat
-Toegevoegd aan de app: **84** moties
+Toegevoegd aan de app: **0** moties
 Weggelaten voor controle: **18**
 - 19637-3643: download is geen geldige PDF
 - 21501-20-2460: download is geen geldige PDF
@@ -26,6 +26,3 @@ Weggelaten voor controle: **18**
 - 37020-XVI-60: fractie JA21 stemde verdeeld (hoofdelijk), handmatig bepalen
 - 37020-XVI-66: fractie JA21 stemde verdeeld (hoofdelijk), handmatig bepalen
 - 37020-XVII-12: indiener niet betrouwbaar te bepalen: De voorzitter:, Deze motie is voorgesteld door het lid Hooge
-
-**Nieuwe dossiers zonder ministerie (staan onder 'Overig', graag indelen):**
-- 37020-I: 37 020 I Vaststelling van de begrotingsstaat van de Koning (I) voor het jaar 2027
