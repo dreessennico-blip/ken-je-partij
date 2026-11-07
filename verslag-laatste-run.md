@@ -1,12 +1,12 @@
 # Verslag nachtelijke update
 
-Gedraaid op: 2026-11-06 03:16 UTC, periode (indiening): 2026-09-22 t/m 2026-11-06
+Gedraaid op: 2026-11-07 03:15 UTC, periode (indiening): 2026-09-23 t/m 2026-11-07
 In de app: 3523 moties
-Opgehaald: 957 moties (met of zonder uitslag)
-Nieuw met uitslag: 18
+Opgehaald: 904 moties (met of zonder uitslag)
+Nieuw met uitslag: 19
 
 ## Resultaat
-Toegevoegd aan de app: **0** moties
+Toegevoegd aan de app: **1** moties
 Weggelaten voor controle: **18**
 - 19637-3643: download is geen geldige PDF
 - 21501-20-2460: download is geen geldige PDF
