@@ -1,12 +1,12 @@
 # Verslag nachtelijke update
 
-Gedraaid op: 2026-11-11 09:43 UTC, periode (indiening): 2026-09-27 t/m 2026-11-11
-In de app: 3524 moties
-Opgehaald: 941 moties (met of zonder uitslag)
-Nieuw met uitslag: 94
+Gedraaid op: 2026-11-12 10:03 UTC, periode (indiening): 2026-09-28 t/m 2026-11-12
+In de app: 3593 moties
+Opgehaald: 902 moties (met of zonder uitslag)
+Nieuw met uitslag: 25
 
 ## Resultaat
-Toegevoegd aan de app: **69** moties
+Toegevoegd aan de app: **0** moties
 Weggelaten voor controle: **25**
 - 19637-3643: download is geen geldige PDF
 - 21501-20-2460: download is geen geldige PDF
@@ -33,6 +33,3 @@ Weggelaten voor controle: **25**
 - 37020-XVI-60: fractie JA21 stemde verdeeld (hoofdelijk), handmatig bepalen
 - 37020-XVI-66: fractie JA21 stemde verdeeld (hoofdelijk), handmatig bepalen
 - 37020-XVII-12: indiener niet betrouwbaar te bepalen: De voorzitter:, Deze motie is voorgesteld door het lid Hooge
-
-**Nieuwe dossiers zonder ministerie (staan onder 'Overig', graag indelen):**
-- 37022: 37 022 Wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2027)
