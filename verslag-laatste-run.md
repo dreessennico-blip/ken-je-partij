@@ -1,16 +1,15 @@
 # Verslag nachtelijke update
 
-Gedraaid op: 2026-11-12 10:03 UTC, periode (indiening): 2026-09-28 t/m 2026-11-12
+Gedraaid op: 2026-11-13 09:50 UTC, periode (indiening): 2026-09-29 t/m 2026-11-13
 In de app: 3593 moties
-Opgehaald: 902 moties (met of zonder uitslag)
-Nieuw met uitslag: 25
+Opgehaald: 860 moties (met of zonder uitslag)
+Nieuw met uitslag: 23
 
 ## Resultaat
 Toegevoegd aan de app: **0** moties
-Weggelaten voor controle: **25**
+Weggelaten voor controle: **23**
 - 19637-3643: download is geen geldige PDF
 - 21501-20-2460: download is geen geldige PDF
-- 29544-1335: download is geen geldige PDF
 - 31289-622: download is geen geldige PDF
 - 31293-894: download is geen geldige PDF
 - 31936-1320: download is geen geldige PDF
@@ -27,7 +26,6 @@ Weggelaten voor controle: **25**
 - 37020-XXIII-48: download is geen geldige PDF
 - 37020-XXIII-49: download is geen geldige PDF
 - 19637-3666: indiener niet betrouwbaar te bepalen: De voorzitter:, Deze motie is voorgesteld door de leden Verm
-- 21501-08-1048: uitslag klopt niet met de stemmen (de bron is tegenstrijdig)
 - 21501-33-1256: uitslag klopt niet met de stemmen (de bron is tegenstrijdig)
 - 37020-XVI-42: fractie JA21 stemde verdeeld (hoofdelijk), handmatig bepalen
 - 37020-XVI-60: fractie JA21 stemde verdeeld (hoofdelijk), handmatig bepalen
